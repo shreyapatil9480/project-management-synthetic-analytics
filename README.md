@@ -4,7 +4,7 @@ This repository contains a fully reproducible analytics project built around a *
 
 ## Dataset
 
-The file `synthetic_project_data.csv` holds 1 000 rows of artificial project data.  Each row describes a fictional project with the following fields:
+The file `synthetic_project_data.csv` included in this repository contains the first 100 rows of an artificial project dataset. Each row describes a fictional project with the following fields. To generate the full 1,000-row dataset, run the `create_repo_project.py` script.
 
 | Column | Description |
 |------|-------------|
